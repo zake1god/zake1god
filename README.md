@@ -14,9 +14,8 @@
 <br><br><br><br><br><br><br><br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zake1god&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=zake1god&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zake1god&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zake1god&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zake1god&theme=transparent&hide_border=false)<br>
 <br>
 <!---
 zake1god/zake1god is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
